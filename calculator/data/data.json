@@ -1,0 +1,8 @@
+{
+  "cal_001": {"a": 1, "b": 2, "exp_result": 3},
+  "cal_002": {"a": 11, "b": 22, "exp_result": 33},
+  "cal_003": {"a": 10, "b": 20, "exp_result": 30},
+  "cal_004": {"a": 0, "b": 2, "exp_result": 2},
+  "cal_005": {"a": 9, "b": 0, "exp_result": 9},
+  "cal_006": {"a": 9, "b": 2, "exp_result": 11}
+}
